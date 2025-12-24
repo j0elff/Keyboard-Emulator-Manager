@@ -1,0 +1,44 @@
+⚠️USER LICENSE AGREEMENT (EULA)⚠️
+
+Keyboard Emulator Manager
+
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING, ACCESSING, OR USING THIS SOFTWARE.
+
+This End User License Agreement ("Agreement") is a legally binding agreement between you ("User") and the author of the software known as "Keyboard Emulator Manager" ("Software"). By installing, copying, accessing, or using the Software, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of this Agreement. If you do not agree to this Agreement, you must not install, access, or use the Software.
+
+Copyright © [YEAR] [YOUR NAME OR COMPANY]
+All rights reserved.
+
+The Software is licensed, not sold. The author retains all rights, title, and interest in and to the Software, including all intellectual property rights.
+
+Subject to your full compliance with this Agreement, the author grants you a limited, non-exclusive, non-transferable, non-sublicensable, and revocable license to use the Software solely as permitted under this Agreement.
+
+The Software may be used for any lawful purpose, including but not limited to educational, personal, academic, research, experimental, or private use, provided that such use complies with all applicable local, national, and international laws and regulations.
+
+You are strictly prohibited from using the Software for any illegal, unlawful, malicious, fraudulent, or unauthorized purpose. This includes, but is not limited to, activities that violate criminal law, civil law, intellectual property law, privacy law, cybersecurity law, or that facilitate or enable harmful or unauthorized actions.
+
+Commercial use of the Software is strictly prohibited unless you obtain explicit prior written authorization from the author. Commercial use includes, without limitation, use for profit, revenue generation, business operations, paid services, or inclusion in any commercial product or service. Any authorized commercial use shall be governed by a separate written agreement executed by the author.
+
+Except where expressly permitted by applicable law, you may not modify, adapt, translate, alter, create derivative works from, reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software.
+
+You may not copy, reproduce, distribute, publish, sublicense, sell, rent, lease, lend, assign, transfer, or make the Software available to any third party, in whole or in part, without the prior express written consent of the author.
+
+This Agreement does not grant you any ownership rights in the Software. All rights not expressly granted herein are reserved by the author.
+
+The author reserves the right to revoke this license at any time if you breach any term of this Agreement. Upon termination, you must immediately cease all use of the Software and destroy all copies in your possession or control.
+
+The Software is provided "AS IS" and "AS AVAILABLE", without any warranties of any kind, whether express, implied, or statutory, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, accuracy, reliability, or availability.
+
+To the maximum extent permitted by applicable law, in no event shall the author be liable for any damages whatsoever, including but not limited to direct, indirect, incidental, special, consequential, exemplary, or punitive damages, loss of profits, loss of data, loss of business, or business interruption, arising out of or related to the use of or inability to use the Software, even if the author has been advised of the possibility of such damages.
+
+You are solely responsible for ensuring that your use of the Software complies with all applicable laws and regulations. The author shall have no responsibility or liability for any misuse of the Software by the User.
+
+This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction of the author, without regard to conflict of law principles.
+
+If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+For permissions beyond the scope of this Agreement, including commercial use, redistribution, or modifications, you must contact the author and obtain prior written authorization.
+
+Contact: [YOUR EMAIL OR CONTACT METHOD]
+
+BY INSTALLING, ACCESSING, OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ AND AGREED TO THIS END USER LICENSE AGREEMENT.
