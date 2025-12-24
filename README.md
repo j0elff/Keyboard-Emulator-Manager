@@ -63,7 +63,7 @@ The emulator intercepts and generates keyboard events at the system or applicati
 
 ⭐ Easy to extend and modify
 
-## Media
+# Media
 
 ## THIS IS AN .EXE PROGRAM 🔥
 <img width="495" height="247" alt="{05585BE2-9D66-4AA2-8D76-3D732D09AEA6}" src="https://github.com/user-attachments/assets/7ebbaf25-b637-4f69-ae21-c6066dd7c2bc" />
@@ -82,8 +82,10 @@ To use this program, an access key is required. You can purchase it at a very af
 
 <img width="586" height="947" alt="{F9CB897F-2907-41AE-8BFD-165611EA68BB}" src="https://github.com/user-attachments/assets/54dcb2ce-2b05-4317-bd5a-da048531d8cb" />
 
+## RUNNING
 <img width="543" height="570" alt="{AE67EA98-A677-46A3-B469-E157AFEE14DB}" src="https://github.com/user-attachments/assets/77e0c1a4-1e89-400d-9459-e6f9a19ac510" />
 
+## Purchase the subscription/key/password for only $2.50 on Patreon
 <img width="1232" height="590" alt="{2B24B326-EF4D-44A7-9353-3EBD5EE9D547}" src="https://github.com/user-attachments/assets/732aa3f1-0bec-4f2f-9dc8-9875232ec0e1" />
 
 ### Active community, 24/7 support 🔥
